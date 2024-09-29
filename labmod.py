@@ -18,7 +18,7 @@ from .. import loader, utils
 import asyncio
 
 @loader.tds
-class LABMod(loader.Module):
+class LAB(loader.Module):
     """По командам 'л' и 'бл' пишет млаб/блаб\n by @GGModules & @ASaGGa1_TYT"""
     strings = {'name': 'Лаб'}
 
